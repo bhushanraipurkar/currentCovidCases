@@ -1,3 +1,7 @@
+# check_it_now
+https://bhushanraipurkar.github.io/currentCovidCases/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
